@@ -13,3 +13,6 @@ esta es la nota más simple que he guadado.
 
 4)no se que título ponerle a esta
 en vez voy a sobreescribir el tercer commit donde guarde la tercera nota y lo voy a guardar pero con esta 4ta nota.
+
+5) modificacion del ultimo commit que solo fue por gusto
+a este no me dan ganas ni de escribirle nada
