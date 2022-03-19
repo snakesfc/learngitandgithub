@@ -1,4 +1,18 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
 body {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  min-height: 100vh;
+  margin: 0;
   color: #3d3d3d;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
@@ -19,4 +33,37 @@ button {
 button:hover {
   cursor: pointer;
   background-color: #eeeeee;
+}
+
+header {
+  width: 100%;
+  background-color: darkseagreen;
+  padding: 0.5em;
+}
+
+header div {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 85%;
+  max-width: 1000px;
+  color: white;
+  margin: 0 auto;
+}
+
+header,
+img {
+  box-shadow: 0 0 20px -7px rgba(0, 0, 0, 0.5);
+}
+
+header img {
+  height: 30px;
+  width: auto;
+  display: block;
+}
+
+header span {
+  font-weight: 700;
+  font-size: 1.5em;
+  margin-left: 0.5rem;
 }
