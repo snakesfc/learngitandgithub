@@ -23,10 +23,14 @@
     </footer>
     <script>
       const button = document.getElementById('mybutton');
+      const h1 = document.querySelector('h1');
+
+      function revisarTexto(str) {
+        str.replace('a', 'a');
+        return str;
+      }
 
       button.onclick = (e) => {
-        const h1 = document.querySelector('h1');
-
         h1.textContent = 'este text se cambio gracias a javascript';
       };
     </script>
