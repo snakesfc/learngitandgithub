@@ -79,3 +79,19 @@ footer {
   background-color: #ebebeb;
   font-weight: 800;
 }
+
+footer span {
+  font-style: italic;
+}
+
+footer a {
+  color: rgb(95, 149, 204);
+  text-decoration: none;
+}
+footer a:visited {
+  text-decoration: grey;
+}
+footer a:hover {
+  color: dodgerblue;
+  text-decoration: underline;
+}
