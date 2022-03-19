@@ -20,3 +20,10 @@ button:hover {
   cursor: pointer;
   background-color: #eeeeee;
 }
+
+footer {
+  margin-top: auto;
+  padding: 0.2em;
+  background-color: #ebebeb;
+  font-weight: 800;
+}
