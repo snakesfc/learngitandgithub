@@ -10,5 +10,15 @@
   <body>
     <h1>Este la etiqueta h1 en HTML</h1>
     <p>ya NO! es un parrafo cualquiera!</p>
+    <button id="mybutton">clic para cambiar h1</button>
+    <script>
+      const button = document.getElementById('mybutton');
+
+      button.onclick = (e) => {
+        const h1 = document.querySelector('h1');
+
+        h1.textContent = 'este text se cambio gracias a javascript';
+      };
+    </script>
   </body>
 </html>
