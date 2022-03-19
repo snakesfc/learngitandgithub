@@ -4,3 +4,6 @@ A partir de este punto guadaremos cada nota en orden y enumeradas.
 
 1) estas es mi primera nota
 cada una de la notas van a tener título y cuerpo, la cual no tiene limites.
+
+2) Este seria el formato que tienen mis notas
+primero ser escribre un titulo, y luego de eso en la siguiente linea se escribe la nota como tal.
