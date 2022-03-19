@@ -11,6 +11,10 @@ body {
 }
 
 body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
   min-height: 100vh;
   margin: 0;
   color: #3d3d3d;
@@ -66,4 +70,12 @@ header span {
   font-weight: 700;
   font-size: 1.5em;
   margin-left: 0.5rem;
+}
+
+footer {
+  margin: auto 0 0 0;
+  width: 100%;
+
+  background-color: #ebebeb;
+  font-weight: 800;
 }
