@@ -7,3 +7,9 @@ cada una de la notas van a tener título y cuerpo, la cual no tiene limites.
 
 2) Este seria el formato que tienen mis notas
 primero ser escribre un titulo, y luego de eso en la siguiente linea se escribe la nota como tal.
+
+3)tercera nota
+esta es la nota más simple que he guadado.
+
+4)no se que título ponerle a esta
+en vez voy a sobreescribir el tercer commit donde guarde la tercera nota y lo voy a guardar pero con esta 4ta nota.
