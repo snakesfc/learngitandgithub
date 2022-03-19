@@ -1,0 +1,6 @@
+Este archivo fue creado para guardar notas.
+
+A partir de este punto guadaremos cada nota en orden y enumeradas.
+
+1) estas es mi primera nota
+cada una de la notas van a tener título y cuerpo, la cual no tiene limites.
